@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealerBall", "HealerBall\HealerBall.csproj", "{8F87E21C-6B4D-473D-A4DF-708EB21293CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealerBall", "HealerBall.csproj", "{8F87E21C-6B4D-473D-A4DF-708EB21293CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {82655AC9-F240-46B1-9659-229D0AA2B8C0}
+		SolutionGuid = {216BC2E4-4786-4355-ABB9-56626595E312}
 	EndGlobalSection
 EndGlobal
